@@ -1,6 +1,5 @@
--Jakub Tomaszewicz
--He/him
--Warszawa, Zespół Szkoł Elektrycznych i Licealnych
+-Jakub Tomaszewicz<br>
+-Warszawa, Zespół Szkoł Elektrycznych i Licealnych<br>
 -c/c++
 <!---
 JTomaszewicz26/JTomaszewicz26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
